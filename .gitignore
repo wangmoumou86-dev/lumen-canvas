@@ -1,0 +1,11 @@
+node_modules
+dist
+.output
+.vercel
+.env
+.env.*
+screenshots
+.tanstack
+.nitro
+*.log
+.project_id
